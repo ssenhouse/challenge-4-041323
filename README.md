@@ -3,6 +3,14 @@
 **Repository for challenge 4 for FinTech BootCamp**
 ---
 ## Directory
-[Programs](references)
-[Data Files](data )
-[References]
+[Programs](code)
+Used jupyter notebook to create report. Notebook contains code, detailed analaysis, and responses to specific challenge questions. 
+
+To review challenge 4 clone the repository and run the **risk_return_analysis.ipynb** with: 
+
+'''python
+python risk_return_analys
+
+[Data Files](data)
+Main a
+[References](references)
