@@ -9,24 +9,28 @@ The purpose of this challege was to successfully perform an analsysis of risk, r
 
 ## Technologies 
 
-This project leverages python 3.7 specifically the jupyter lab
+This project leverages python 3.7 specifically and assumes that jupyter lab has been installed.
 
 ## Resources
 
-* Data provided by Columbia FinTech program. Data files are 
-
-*[Resources](https://github.com/ssenhouse/challenge-4-041323/tree/main/Starter_Code/Resources)
-
-
+* Data provided by Columbia FinTech program [here.](https://github.com/ssenhouse/challenge-4-041323/tree/main/Starter_Code/Resources)
  
+## Contributions 
 
-To review challenge 4 clone the repository and run the **risk_return_analysis.ipynb** with: 
+Historical data and challenge questions provided by Columbia FinTech progam.
+Analysis, code, and conclusions completed by Sean Senhouse
 
-'''python
-python risk_return_analysis.ipynb
-'''
+## Installation Guide
+To review challenge 4 clone the repository and run the **risk_return_analysis.ipynb** using the following command: 
 
+```python
+str("conda activate dev")
+str("jupyter lab")
+text = python risk_return_analysis.ipynb
+print(text)
+```
+## Usage
 
-[Data Files](data)
-Main a
-[References](references)
+Once the book is run, several charts will be generated as example seen below. Final analysis will illustrate why my final recommendations is to add the Berkshire Hathaway Fund and the Tiger Global Funds to our portfolio of funds offered. 
+
+![Cumulative Returns for the Whale funds & S&P 500](/Starter_Code/images/whale_and_spx_returns.png)
