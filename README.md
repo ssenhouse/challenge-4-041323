@@ -4,7 +4,7 @@
 ---
 ## Portfolio Analysis
 
-![Image used from original FinTech challenge files](/images/cool_portfolio_analysis_image.pny)
+![Image used from original FinTech challenge files](/images/cool_portfolio_analysis_image.png)
 The purpose of this challege was to successfully perform an analsysis of risk, returns, and market sensitivity of 4 whale funds as compared to the S&P 500 between the years of 2014 - 2017. The code and final report was created using jupyter notebook to create report. Notebook contains code, detailed analaysis, and responses to specific challenge questions.
 
 ## Technologies 
