@@ -21,16 +21,25 @@ Historical data and challenge questions provided by Columbia FinTech progam.
 Analysis, code, and conclusions completed by Sean Senhouse
 
 ## Installation Guide
-To review challenge 4 clone the repository and run the **risk_return_analysis.ipynb** using the following command: 
+### To review challenge 4:
+
+First initialze the dev environment and the Jupyter lab  
 
 ```python
 str("conda activate dev")
 str("jupyter lab")
-text = python risk_return_analysis.ipynb
-print(text)
 ```
+Open the Jupter Notebook titled: **risk_return_analysis.ipynb** 
+Run all of the code
+
 ## Usage
 
-Once the book is run, several charts will be generated as example seen below. Final analysis will illustrate why my final recommendations is to add the Berkshire Hathaway Fund and the Tiger Global Funds to our portfolio of funds offered. 
+Once the book is opened, the book is broken up into several sections:
+* Import the csv file data.
+* Analyze the Performance of the funds as compared to the S&P 500
+* Analyze the return volatility of the funds
+* Analyze the Risk-Return Profile
+* Conclude fund recommendations
+Several charts will be generated as example seen below. The chart below shows the cumulative returns of the 4 whale funds and the S&P 500. Upon conclusion of my analysis, my recommendation is to add both the Berkshire Hathaway Fund and the Tiger Global Funds to our portfolio of funds offered. Both of these funds offer retirement investor different options based on their risk profile, specifically "Are the clients close to retirement, or do clients have a longer retirement horizon."
 
 ![Cumulative Returns for the Whale funds & S&P 500](/Starter_Code/images/whale_and_spx_returns.png)
